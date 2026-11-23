@@ -2,7 +2,7 @@
 
 Exercícios de estudo da linguagem C#
 
-## O que o programa faz
+## Aulas
 
-aula06: conversões entre decimal e binário 
-aula07: tipos de variaveis
+- Aula06: conversões entre decimal e binário 
+- Aula07: tipos de variáveis
