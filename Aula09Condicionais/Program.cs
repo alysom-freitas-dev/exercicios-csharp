@@ -4,7 +4,7 @@ int estoqueMinimo = 50;
 Console.Write("Digite o saldo do rótulo: ");
 int saldo = int.Parse(Console.ReadLine());
 
-if (saldo = 0)
+if (saldo == 0)
 {
     Console.WriteLine("Ruptura: sem estoque");
 }
